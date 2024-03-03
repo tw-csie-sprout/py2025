@@ -40,19 +40,16 @@ A: 可以 Ctrl-F5 清除快取，或是開啟無痕模式試試。
 
 ### 第二階段
 
-TBD
-
-<!--
 {: .table .table-bordered}
 | 週次 | 日期 |     作業     | 主題                                    |
 | ---- | ---- | :----------: | :-------------------------------------- |
-| 09   | 0508 |              | 二階課程介紹、Class、Git                |
-| 10   | 0515 |              | Python 前後端 Framework (Django, Flask) |
-| 11   | 0522 |              | OS、File I/O、Crawling (requests)       |
-| 12   | 0529 |              | Crawling (BS4, Selenium)                |
-|      | 0605 |              | 端午連假，本週停課一次                  |
-| 13   | 0612 |  大作業公布  | Discord Bot、大作業 setup               |
-| 14   | 0619 |              | NumPy、Matplotlib、影像處理 (Pillow)    |
-| 15   | 0626 |              | 初探算法、未來展望                      |
-| 16   | 0703 | 作業 Deadline | Discord Presentation                   |
--->
+| 08   | 0428 |              | 二階課程介紹、Git、File IO                |
+| 09   | 0505 |   大作業公布  | Discord Bot |
+| 10   | 0512 |              | Python 前後端 Framework (Django, Flask + request)  |
+| 11   | 0519 |              | Crawling (BS4, Selenium)                |
+| 12   | 0526 |              | numpy、metplotlib、pandas                  |
+| 13   | 0602 |              |  影像處理 (OpenCV, Pillow)        |
+|      | 0609 |              | 端午節放假                      |
+| 14   | 0616 |              | 初探算法（Link list, set- operator 的 time complexity）|
+| 15   | 0623 | 大作業 Deadline | Discord presentation                      |
+| 16   | 0630 |              | 未來展望                   |
