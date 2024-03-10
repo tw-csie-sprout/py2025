@@ -23,3 +23,4 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | 邏輯判斷、if | [Link](https://docs.google.com/presentation/d/1Na8_-UwhAiXk8KrPRxkh4rO9YDE03Ra2iy_jCfxVKuA/edit?usp=sharing) |
+| 迴圈 | [Link](https://drive.google.com/file/d/1jXdN-vTeIwsCsouMqE2gzyF0hlo4VTiE/view?usp=drive_link) |
