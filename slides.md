@@ -24,3 +24,10 @@ title: "課程講義"
 | --- | --- |
 | 邏輯判斷、if | [Link](https://docs.google.com/presentation/d/1Na8_-UwhAiXk8KrPRxkh4rO9YDE03Ra2iy_jCfxVKuA/edit?usp=sharing) |
 | 迴圈 | [Link](https://drive.google.com/file/d/1jXdN-vTeIwsCsouMqE2gzyF0hlo4VTiE/view?usp=drive_link) |
+
+### Week 3 (03/17)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| string | [Link](https://docs.google.com/presentation/d/17FgMddy7Rs4BBLltV1O2X-yln4xfPF8QxY93dVpx-Es/edit?usp=sharing) |
