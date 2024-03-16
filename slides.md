@@ -30,4 +30,5 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
+| list | [Link](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/SJ-lEHJAa#/)
 | string | [Link](https://docs.google.com/presentation/d/17FgMddy7Rs4BBLltV1O2X-yln4xfPF8QxY93dVpx-Es/edit?usp=sharing) |
