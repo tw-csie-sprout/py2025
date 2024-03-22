@@ -38,5 +38,5 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| dictionary | [Link](https://drive.google.com/file/d/1keTjonxJIsZwPvHk--4A3yUF8pq4-WUo/view?usp=sharing)https://drive.google.com/file/d/1keTjonxJIsZwPvHk--4A3yUF8pq4-WUo/view?usp=sharing)|
+| dictionary | [Link](https://drive.google.com/file/d/1keTjonxJIsZwPvHk--4A3yUF8pq4-WUo/view?usp=sharing)|
 
