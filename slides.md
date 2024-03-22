@@ -32,3 +32,11 @@ title: "課程講義"
 | --- | --- |
 | list | [Link](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/SJ-lEHJAa#/)
 | string | [Link](https://docs.google.com/presentation/d/17FgMddy7Rs4BBLltV1O2X-yln4xfPF8QxY93dVpx-Es/edit?usp=sharing) |
+
+### Week 4 (03/24)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| dictionary | [Link](https://drive.google.com/file/d/1keTjonxJIsZwPvHk--4A3yUF8pq4-WUo/view?usp=sharing)https://drive.google.com/file/d/1keTjonxJIsZwPvHk--4A3yUF8pq4-WUo/view?usp=sharing)|
+
