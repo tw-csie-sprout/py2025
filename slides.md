@@ -39,4 +39,6 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | dictionary | [Link](https://drive.google.com/file/d/1keTjonxJIsZwPvHk--4A3yUF8pq4-WUo/view?usp=sharing)|
+| 大作業 | [Link(spec)](https://hackmd.io/@poo/rytyawJTp) [Link(slides)](https://www.canva.com/design/DAFzpVtnHFY/3cAeQmeAO31-h6FbVXdmyA/view?utm_content=DAFzpVtnHFY&utm_campaign=designshare&utm_medium=link&utm_source=editor)|
+
 
