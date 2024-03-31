@@ -42,4 +42,10 @@ title: "課程講義"
 | 複習 | [Link](https://drive.google.com/file/d/1lhj3YwVQQ3E_cC1dIrkiDp9rmUmr3chj/view?usp=drive_link)|
 | 大作業 | [Link(spec)](https://hackmd.io/@poo/rytyawJTp) [Link(slides)](https://www.canva.com/design/DAFzpVtnHFY/3cAeQmeAO31-h6FbVXdmyA/view?utm_content=DAFzpVtnHFY&utm_campaign=designshare&utm_medium=link&utm_source=editor)|
 
+### Week 3 (03/31)
 
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| Function & Import | [Link](https://drive.google.com/file/d/1_0A1JNrGVCNI49pzpCm-9HokZqH_tyje/view?usp=sharing)
+| Class & OOP | |
