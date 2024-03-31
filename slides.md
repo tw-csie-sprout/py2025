@@ -48,4 +48,4 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Function & Import | [Link](https://drive.google.com/file/d/1_0A1JNrGVCNI49pzpCm-9HokZqH_tyje/view?usp=sharing)
-| Class & OOP | |
+| Class & OOP | [Link](https://drive.google.com/file/d/1zDcPqTxT0clAzELNG78nJNhtlM99c-2m/view?usp=sharing) |
