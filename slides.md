@@ -49,3 +49,10 @@ title: "課程講義"
 | --- | --- |
 | Function & Import | [Link](https://drive.google.com/file/d/18kyJvFUUAWle5NnfwUXhAZom42yxtE8_/view?usp=sharing)
 | Class & OOP | [Link](https://drive.google.com/file/d/1zDcPqTxT0clAzELNG78nJNhtlM99c-2m/view?usp=sharing) |
+
+### Week 7 (04/14)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| Coding Style | [Link](https://drive.google.com/file/d/121tBmK85xCnaTj0dmD0PpVSKoIoMbW8W/view?usp=drive_link)
