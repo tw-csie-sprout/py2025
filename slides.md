@@ -56,3 +56,11 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Coding Style | [Link](https://drive.google.com/file/d/121tBmK85xCnaTj0dmD0PpVSKoIoMbW8W/view?usp=drive_link)
+
+### Week 8 (04/28)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| 檔案、版本控制 | [Link](https://docs.google.com/presentation/d/1X1uqxsrko65y5UyReWjJJMgAWNw7-sigMPYr5t7eU68/edit?usp=sharing)
+
