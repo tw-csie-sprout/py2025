@@ -62,5 +62,5 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| 檔案、版本控制 | [Link](https://docs.google.com/presentation/d/1X1uqxsrko65y5UyReWjJJMgAWNw7-sigMPYr5t7eU68/edit?usp=sharing)
+| fileIO、git | [Link](https://docs.google.com/presentation/d/1X1uqxsrko65y5UyReWjJJMgAWNw7-sigMPYr5t7eU68/edit?usp=sharing)
 
