@@ -71,4 +71,5 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Discord Bot| [Link](https://docs.google.com/presentation/d/1KNWFXyrA-x579KzWgZnC-o3XlW-wylDnXHHpIp2hwJw/edit?usp=sharing) |
+| 大作業 | [HackMD](https://hackmd.io/@Ev0n9YKlTzCKhedHrgZ2zw/rk6pDYsWC) |
 
