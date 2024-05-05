@@ -65,3 +65,10 @@ title: "課程講義"
 | Intro| [Link](https://drive.google.com/file/d/1oTUwMEnWPmwIL3FM3yl6dCnqBJEJYkmi/view?usp=drive_link) |
 | fileIO、git | [Link](https://docs.google.com/presentation/d/1X1uqxsrko65y5UyReWjJJMgAWNw7-sigMPYr5t7eU68/edit?usp=sharing)
 
+### Week 9 (05/05)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| Discord Bot| [Link](https://docs.google.com/presentation/d/1KNWFXyrA-x579KzWgZnC-o3XlW-wylDnXHHpIp2hwJw/edit?usp=sharing) |
+
