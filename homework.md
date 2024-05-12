@@ -22,4 +22,4 @@ title: "課程作業"
 {: .table .table-bordered}
 | 日期  | 週次 | 上課練習 | 勾選作業 | 其他習題 | 檢討 |
 | :---: | :--: | :---- | :----- | :----- | :----- |
-|  |  |  |  |  |  |
+| 05/12 | 10 |  | [Flask 作業](https://hackmd.io/@namwoam/ryZrGmRV3)、[繳交表單](https://forms.gle/T1AQfMreRGHbcJ8P6) |  |  |
