@@ -73,3 +73,10 @@ title: "課程講義"
 | Discord Bot| [Link](https://docs.google.com/presentation/d/1KNWFXyrA-x579KzWgZnC-o3XlW-wylDnXHHpIp2hwJw/edit?usp=sharing) |
 | 大作業 | [HackMD](https://hackmd.io/@Ev0n9YKlTzCKhedHrgZ2zw/rk6pDYsWC) |
 
+### Week 10 (05/12)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| Flask| [Link]([https://docs.google.com/presentation/d/1KNWFXyrA-x579KzWgZnC-o3XlW-wylDnXHHpIp2hwJw/edit?usp=sharing](https://namwoam.github.io/sprout-material/py2024-taipei-flask/slide.slides.html#/)) |
+
