@@ -80,3 +80,10 @@ title: "課程講義"
 | --- | --- |
 | Flask| [Link](https://namwoam.github.io/sprout-material/py2024-taipei-flask/slide.slides.html#/) |
 
+### Week 11 (05/19)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| BeautifulSoup | [Link](https://www.canva.com/design/DAGFAXIBM00/Vq73_NWARO4O35MLcu564A/edit?utm_content=DAGFAXIBM00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+
