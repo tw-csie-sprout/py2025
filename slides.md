@@ -86,4 +86,5 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | BeautifulSoup | [Link](https://www.canva.com/design/DAGFAXIBM00/Vq73_NWARO4O35MLcu564A/edit?utm_content=DAGFAXIBM00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| Selenium | [Link](https://www.canva.com/design/DAGEvJs5xNQ/ZOBz2zorrV602sIaG3T_5A/view?utm_content=DAGEvJs5xNQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
 
