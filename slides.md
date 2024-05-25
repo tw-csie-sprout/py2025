@@ -88,3 +88,9 @@ title: "課程講義"
 | BeautifulSoup | [Link](https://www.canva.com/design/DAGFAXIBM00/Vq73_NWARO4O35MLcu564A/edit?utm_content=DAGFAXIBM00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | Selenium | [Link](https://www.canva.com/design/DAGEvJs5xNQ/ZOBz2zorrV602sIaG3T_5A/view?utm_content=DAGEvJs5xNQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
 
+### Week 12 (05/26)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| Numpy, Pandas, Matplotlib | [Link]([https://www.canva.com/design/DAGFAXIBM00/Vq73_NWARO4O35MLcu564A/edit?utm_content=DAGFAXIBM00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://docs.google.com/presentation/d/1Yk8LulrF9dLFNSMxSoYSgBi1IbVuZDgn2uq2RxITrEE/edit?usp=sharing)) |
