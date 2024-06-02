@@ -93,11 +93,11 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Numpy, Pandas, Matplotlib | [Link](https://docs.google.com/presentation/d/1Yk8LulrF9dLFNSMxSoYSgBi1IbVuZDgn2uq2RxITrEE/edit?usp=sharing) |
+| Numpy, Pandas, Matplotlib | [Link](https://docs.google.com/presentation/d/1Yk8LulrF9dLFNSMxSoYSgBi1IbVuZDgn2uq2RxITrEE)|
 
 ### Week 13 (06/02)
 
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Computer Vision | [Link]([https://docs.google.com/presentation/d/1Yk8LulrF9dLFNSMxSoYSgBi1IbVuZDgn2uq2RxITrEE/edit?usp=sharing](https://namwoam.github.io/sprout-material/py2024-taipei-computer_vision/slide.slides.html#/)) |
+| Computer Vision | [Link](https://namwoam.github.io/sprout-material/py2024-taipei-computer_vision/slide.slides.html#/) |
