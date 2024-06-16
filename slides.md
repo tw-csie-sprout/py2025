@@ -101,3 +101,10 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Computer Vision | [Link](https://namwoam.github.io/sprout-material/py2024-taipei-computer_vision/slide.slides.html#/) |
+
+### Week 14 (06/16)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| 複雜度&演算法 | [Link](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/Bk4bTAGSR#/) |
