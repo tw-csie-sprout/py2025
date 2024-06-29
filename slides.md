@@ -108,3 +108,11 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | 複雜度&演算法 | [Link](https://hackmd.io/@VLvbo_-_QjqwJnUcuKdxSQ/Bk4bTAGSR#/) |
+
+### Week 16 (06/30)
+
+{: .table .table-bordered}
+| 主題 | 北區 |
+| --- | --- |
+| 未來展望 | [Link](https://docs.google.com/presentation/d/1mTLWN6iaDk0-Ap5L8wg_slba3W2EH1kERQypCpfrOIE/edit?usp=sharing) |
+
