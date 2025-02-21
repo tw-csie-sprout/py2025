@@ -4,7 +4,7 @@ title: "課程作業"
 ---
 # 課程作業
 
-* 線上評測系統：<[http://neoj.sprout.tw/](https://tioj.sprout.tw/)>
+* 線上評測系統：[http://neoj.sprout.tw/](https://tioj.sprout.tw/)
 
 ## 第一階段
 
