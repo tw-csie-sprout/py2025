@@ -13,7 +13,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Course Introduction | [Link](https://drive.google.com/file/d/1GN2Q-Yy1AppK9Dzq8nLRGAjPkADEGF1z/view?usp=sharing) |
+| Course Introduction | [Link](https://drive.google.com/file/d/1bnI2FwYh2IDpcoNb9SZK39z85v3aKcaR/view?usp=sharing) |
 | Introduction to Python | [Link](https://www.canva.com/design/DAGfhj3B4cA/j723WifliPhfaiN29ETEaA/view?utm_content=DAGfhj3B4cA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33ea3b7ec7)|
 |Python Basic|[Link](https://hackmd.io/@gary940610/2025-sprout-python-basic)|
 
