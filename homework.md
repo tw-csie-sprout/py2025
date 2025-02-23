@@ -11,7 +11,7 @@ title: "課程作業"
 {: .table .table-bordered}
 | 日期  | 週次 | 上課練習 | 勾選作業 | 其他習題 | 檢討 |
 | :---: | :--: | :---- | :---- | :----- | :-- |
-| 02/23 | 01 |  |  |  |  |
+| 02/23 | 01 | [663](https://tioj.sprout.tw/problems/663) [668](https://tioj.sprout.tw/problems/668) | [666](https://tioj.sprout.tw/problems/666) [667](https://tioj.sprout.tw/problems/667) |  |  |
 | 03/09 | 02 |  |  |  |  |
 | 03/16 | 03 |  | | | |
 | 03/23 | 04 |  |   | |
