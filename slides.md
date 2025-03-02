@@ -22,7 +22,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| 邏輯判斷、if |  |
+| 邏輯判斷、if | [Link](https://drive.google.com/file/d/1mNNdONkA2ioawu186bZEmOHtTAprHYr-/view?usp=drive_link) |
 | 迴圈 |  |
 
 ### Week 3 (03/09)
