@@ -23,7 +23,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | 邏輯判斷、if | [Link](https://drive.google.com/file/d/1mNNdONkA2ioawu186bZEmOHtTAprHYr-/view?usp=drive_link) |
-| 迴圈 |  |
+| 迴圈 | [Link](https://hackmd.io/@gary940610/python-loop) |
 
 ### Week 3 (03/09)
 
