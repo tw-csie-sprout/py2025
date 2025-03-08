@@ -30,7 +30,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| list | |
+| list |[Link](https://drive.google.com/file/d/1l71M3YXL4JOt66aPimHJNXjArdnRBaJp/view?usp=sharing) |
 | string |  |
 
 ### Week 4 (03/16)
