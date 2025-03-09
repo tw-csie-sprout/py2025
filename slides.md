@@ -31,7 +31,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | list |[Link](https://drive.google.com/file/d/1l71M3YXL4JOt66aPimHJNXjArdnRBaJp/view?usp=sharing) |
-| string |  |
+| string | [Link](https://hackmd.io/@onion0905/r1cbJAIjyg) |
 
 ### Week 4 (03/16)
 
