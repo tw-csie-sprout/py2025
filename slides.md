@@ -39,7 +39,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | dictionary | [Link](https://drive.google.com/file/d/1FJItoWj6jn2DtVffA8-PIeuP_h1rTZHb/view?usp=drive_link)|
-| 大作業 | |
+| 大作業 | [Link](https://hackmd.io/@howardhsuuu/r1BY4voo1e) |
 
 ### Week 5 (03/23)
 
