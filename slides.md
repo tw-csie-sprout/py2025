@@ -38,7 +38,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| dictionary | |
+| dictionary | [Link](https://drive.google.com/file/d/1FJItoWj6jn2DtVffA8-PIeuP_h1rTZHb/view?usp=drive_link)|
 | 大作業 | |
 
 ### Week 5 (03/23)
