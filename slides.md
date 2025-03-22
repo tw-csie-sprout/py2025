@@ -46,7 +46,8 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Function & Import | 
+| Function | |
+| Import | [Link](https://drive.google.com/file/d/1rLZqChd6rHLYqI_HXzWZi9Cc7kEl0ZBF/view?usp=sharing) |
 
 ### Week 6 (03/30)
 
