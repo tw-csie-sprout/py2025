@@ -46,7 +46,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Function | |
+| Function | [Link](https://hackmd.io/@b4N1BFEqTjixRQ6KKLx0qw/HJeSwgnhkl) |
 | Import | [Link](https://drive.google.com/file/d/1rLZqChd6rHLYqI_HXzWZi9Cc7kEl0ZBF/view?usp=sharing) |
 
 ### Week 6 (03/30)
