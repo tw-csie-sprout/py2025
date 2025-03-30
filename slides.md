@@ -22,7 +22,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| 邏輯判斷、if | [Link](https://drive.google.com/file/d/1mNNdONkA2ioawu186bZEmOHtTAprHYr-/view?usp=drive_link) |
+| 邏輯判斷、if | [Link](https://drive.google.com/file/d/14ykQ4lvahx66la11habQmhBVb-tZIAN2/view?usp=sharing) |
 | 迴圈 | [Link](https://hackmd.io/@gary940610/python-loop) |
 
 ### Week 3 (03/09)
@@ -54,7 +54,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Class & OOP |  |
+| Class & OOP | [Link](https://drive.google.com/file/d/1O8VYkzBo5waekkDflRQQeyzgr5DL4PVj/view?usp=sharing) |
 
 ### Week 7 (04/13)
 
