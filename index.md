@@ -36,8 +36,8 @@ A: 可以 Ctrl-F5 清除快取，或是開啟無痕模式試試。
 | 03   | 0309 |            | list、string                                      |
 | 04   | 0316 | 大作業公布  | dict、複習、大作業 spec                            |
 | 05   | 0323 |            | function + import                                 |
-|      | 0330 |            | class + OOP                                       |
-| 06   | 0406 |            | 清明連假，本週停課一次                              |
+| 06   | 0330 |            | class + OOP                                       |
+|      | 0406 |            | 清明連假，本週停課一次                              |
 | 07   | 0413 | 大作業截止  | coding style、大作業練習考試                       |
 | 08   | 0420 |            | 考試                                              |
 
@@ -51,7 +51,7 @@ A: 可以 Ctrl-F5 清除快取，或是開啟無痕模式試試。
 | 11   | 0511 |              | Python 前後端 Framework (Django, Flask + request)    |
 | 12   | 0518 |              | Crawling (BS4, Selenium)                            |
 | 13   | 0525 |              | 資料處理、影像處理(numpy, matplotlib, pandas, OpenCV) |
-| 14   | 0601 |              |  端午節放假                                               |
-|      | 0608 |              |  初探算法（Link list, set- operator 的 time complexity）  |
+|      | 0601 |              |  端午節放假                                               |
+| 14   | 0608 |              |  初探算法（Link list, set- operator 的 time complexity）  |
 | 15   | 0615 |                | 未來展望                                                |
 | 16   | 0622 | 大作業 Deadline | Discord presentation                                   |
