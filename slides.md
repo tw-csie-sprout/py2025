@@ -68,7 +68,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Intro|  |
+| Intro| [Link](https://docs.google.com/presentation/d/1r9fQrcxwRuTHnGWT03hvURFfFEvlrENS/edit?usp=sharing&ouid=109332966886639328335&rtpof=true&sd=true) |
 | fileIO、git | |
 
 ### Week 9 (05/04)
