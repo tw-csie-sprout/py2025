@@ -63,6 +63,8 @@ title: "課程講義"
 | --- | --- |
 | Coding Style | [Link](https://www.canva.com/design/DAGkB9s4d0c/vD03wEdNszq3sPMR4Ep6YA/view?utm_content=DAGkB9s4d0c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd5f3e5ca6d) |
 
+## 第二階段投影片
+
 ### Week 8 (04/27)
 
 {: .table .table-bordered}
