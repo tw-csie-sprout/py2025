@@ -71,7 +71,8 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Intro| [Link](https://docs.google.com/presentation/d/1r9fQrcxwRuTHnGWT03hvURFfFEvlrENS/edit?usp=sharing&ouid=109332966886639328335&rtpof=true&sd=true) |
-| fileIO、git | |
+| Git | [Link](https://www.canva.com/design/DAGldCMIrME/xfb0pLh_yDUa1oyynd598A/view?utm_content=DAGldCMIrME&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15e79f1881) |
+| File IO | |
 
 ### Week 9 (05/04)
 
