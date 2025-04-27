@@ -72,7 +72,7 @@ title: "課程講義"
 | --- | --- |
 | Intro| [Link](https://docs.google.com/presentation/d/1r9fQrcxwRuTHnGWT03hvURFfFEvlrENS/edit?usp=sharing&ouid=109332966886639328335&rtpof=true&sd=true) |
 | Git | [Link](https://www.canva.com/design/DAGldCMIrME/xfb0pLh_yDUa1oyynd598A/view?utm_content=DAGldCMIrME&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15e79f1881) |
-| File IO | |
+| File IO | [Link](https://hackmd.io/@onion0905/ryDq3XKJge) |
 
 ### Week 9 (05/04)
 
