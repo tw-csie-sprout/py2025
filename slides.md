@@ -80,7 +80,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Discord Bot| [Link](https://drive.google.com/file/d/1uUbY19kw36rYH5reMljg35moXiCZs61V/view?usp=sharing) |
-| 大作業 |  |
+| 大作業 | [Link](https://hackmd.io/@gary940610/sprout2025hw2-discord_bot) |
 
 ### Week 10 (05/11)
 
