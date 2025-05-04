@@ -79,7 +79,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Discord Bot|  |
+| Discord Bot| [Link](https://drive.google.com/file/d/1uUbY19kw36rYH5reMljg35moXiCZs61V/view?usp=sharing) |
 | 大作業 |  |
 
 ### Week 10 (05/11)
