@@ -102,7 +102,7 @@ title: "課程講義"
 | 主題 | 北區 |
 | --- | --- |
 | Numpy, Pandas, Matplotlib | |
-| OpenCV	| |
+| OpenCV	| [Link](https://www.canva.com/design/DAGmq3N0EoA/9LkwpFB_-u1Jh0Uv4vtN0Q/edit?utm_content=DAGmq3N0EoA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|
 
 ### Week 13 (06/08)
 
