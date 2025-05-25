@@ -101,7 +101,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| Numpy, Pandas, Matplotlib | |
+| Numpy, Pandas, Matplotlib | [Link](https://slides.com/ck1100363/deck), [Link](https://hackmd.io/@b4N1BFEqTjixRQ6KKLx0qw/HJuLTmJzxg) |
 | OpenCV	| [Link](https://www.canva.com/design/DAGmq3N0EoA/9LkwpFB_-u1Jh0Uv4vtN0Q/edit?utm_content=DAGmq3N0EoA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|
 
 ### Week 13 (06/08)
