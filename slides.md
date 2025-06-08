@@ -109,7 +109,7 @@ title: "課程講義"
 {: .table .table-bordered}
 | 主題 | 北區 |
 | --- | --- |
-| 初探算法 |  |
+| 初探算法 |[Link](https://drive.google.com/file/d/1KGMI-GIglhefv-pQhMW4-R3Q-4uUkbMq/view?usp=sharing)  |
 
 ### Week 14 (06/15)
 
