@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/4592f56b-7eda-491f-b202-84bd3bd3bb31)---
 layout: default
 title: "課程講義"
 ---
@@ -123,6 +123,6 @@ title: "課程講義"
 {: .table .table-bordered}
 | 名稱 | 連結 |
 | --- | --- |
-| 回饋表單 |  |
-| 提前印製證書需求表單 |  |
+| 回饋表單 | [Link](https://forms.gle/Ej9HFrSEiEzWGbPx8) |
+| 提前印製證書需求表單 | [Link](https://forms.gle/go5k4pQrwPUpz5Nk7) |
 
