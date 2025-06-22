@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4592f56b-7eda-491f-b202-84bd3bd3bb31)---
+---
 layout: default
 title: "課程講義"
 ---
